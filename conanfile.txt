@@ -7,17 +7,3 @@ doctest/2.4.6
 CMakeToolchain
 CMakeDeps
 VirtualRunEnv
-
-[settings]
-# We are building in Ubuntu Linux
-os_build=Linux
-arch_build=x86_64
-
-# We are cross building to Windows
-os=Windows
-arch=x86_64
-compiler=gcc
-# Adjust to the gcc version of your MinGW package
-compiler.version=6.3
-compiler.libcxx=libstdc++11
-build_type=Release
