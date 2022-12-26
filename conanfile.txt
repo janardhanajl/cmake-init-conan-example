@@ -4,6 +4,5 @@ fmt/8.0.0
 doctest/2.4.6
 
 [generators]
-CMakeToolchain
 CMakeDeps
 VirtualRunEnv
