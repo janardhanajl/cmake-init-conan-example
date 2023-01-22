@@ -2,6 +2,7 @@
 fmt/8.0.0
 # testing only deps below
 doctest/2.4.6
+openssl/1.1.1o
 
 [generators]
 CMakeDeps
